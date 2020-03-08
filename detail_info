@@ -1,10 +1,10 @@
 {
-    "appSwitch":false,
+    "appSwitch":true,
     "data":[
         {
             "brand":"Xiaomi",
             "imei":"6d331f2b93ec2565",
-            "isValid":false,
+            "isValid":true,
             "key":"1d385bec7aac8a08b68d20d11a11844771d9c265",
             "salt":"unknown",
             "time":1219,
