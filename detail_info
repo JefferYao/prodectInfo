@@ -1,1 +1,1 @@
-test
+{"appSwitch": true, "data":[{"brand":"Xiaomi","imei":"6d331f2b93ec2565","isValid":false,"key":"1d385bec7aac8a08b68d20d11a11844771d9c265","salt":"unknown","time":1219,"uid":"b7b38f1e-7600-4bf9-9b7f-33e6f886d0db","userName":"ttt","version":29, "isValid": true}]}
